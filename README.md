@@ -1,2 +1,2 @@
 # Spring-Swagger
-Criação de uma API REST com intuito de desenvolvimento para treino em Swagger 
+Criação de uma API REST CRUD com intuito de desenvolvimento para treino em Swagger 
